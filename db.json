@@ -1,43 +1,39 @@
-{"search":[
-    {
-        "po":1,
-        "rpa":1111,
-        "duedate":"1/1/2016",
-        "shipment":1122,
-        "vendor":"GT102",
-        "vendorname":"vendor1"
-    },
-    {
-        "po":2,
-        "rpa":2222,
-        "duedate":"2/1/2016",
-        "shipment":1133,
-        "vendor":"GT103",
-        "vendorname":"vendor2"
-    },
-    {
-        "po":3,
-        "rpa":3333,
-        "duedate":"3/1/2016",
-        "shipment":1144,
-        "vendor":"GT104",
-        "vendorname":"vendor3"
-    },
-    {
-        "po":4,
-        "rpa":4444,
-        "duedate":"4/1/2017",
-        "shipment":1155,
-        "vendor":"GT105",
-        "vendorname":"vendor4"
-    },
-    {
-        "po":5,
-        "rpa":5555,
-        "duedate":"5/1/2017",
-        "shipment":1166,
-        "vendor":"GT106",
-        "vendorname":"vendor5"
-    }
-]
+{
+    "rpaVendorList": [
+        {
+            "vendorNumber": 1,
+            "rpaNumber": 11,
+            "poDueDate": "2019-12-31",
+            "dealNumber": 1,
+            "vendorInstruction": "change pick up date"
+        },
+        {
+            "vendorNumber": 2,
+            "rpaNumber": 12,
+            "poDueDate": "2019-12-31",
+            "dealNumber": 1,
+            "vendorInstruction": "change pick up date"
+        },
+        {
+            "vendorNumber": 3,
+            "rpaNumber": 13,
+            "poDueDate": "2019-12-31",
+            "dealNumber": 1,
+            "vendorInstruction": "change pick up date"
+        },
+        {
+            "vendorNumber": 4,
+            "rpaNumber": 14,
+            "poDueDate": "2019-12-31",
+            "dealNumber": 1,
+            "vendorInstruction": "change pick up date"
+        },
+        {
+            "vendorNumber": 5,
+            "rpaNumber": 15,
+            "poDueDate": "2019-12-31",
+            "dealNumber": 1,
+            "vendorInstruction": "change pick up date"
+        }
+    ]
 }
