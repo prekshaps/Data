@@ -14,45 +14,5 @@
             "dealNumber": 1,
             "vendorInstruction": "change pick up date"
         }
-        ],
-    
-       "rpaVendorListDyno":[ 
-           {
-            "vendorNumber": 3,
-            "rpaNumber": 13,
-            "poDueDate": "2019-12-31",
-            "dealNumber": 1,
-            "vendorInstruction": "change pick up date"
-        },
-        {
-            "vendorNumber": 4,
-            "rpaNumber": 14,
-            "poDueDate": "2019-12-31",
-            "dealNumber": 1,
-            "vendorInstruction": "change pick up date"
-        },
-        {
-            "vendorNumber": 5,
-            "rpaNumber": 15,
-            "poDueDate": "2019-12-31",
-            "dealNumber": 1,
-            "vendorInstruction": "change pick up date"
-        }
-    ],
-    "rpaVendorListEdge": [
-        {
-            "vendorNumber": 1,
-            "rpaNumber": 11,
-            "poDueDate": "2019-12-31",
-            "dealNumber": 1,
-            "vendorInstruction": "change pick up date"
-        },
-        {
-            "vendorNumber": 2,
-            "rpaNumber": 12,
-            "poDueDate": "2019-12-31",
-            "dealNumber": 1,
-            "vendorInstruction": "change pick up date"
-        }
-        ],
+        ]
 }
